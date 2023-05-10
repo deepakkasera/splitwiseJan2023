@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SpringBootApplication
 @EnableJpaAuditing
-public class SplitwiseJune22Application {
+public class SplitwiseJan23Application {
 //    @Autowired
 //    private CommandRegistry commandRegistry;
 //    @Autowired
@@ -23,7 +23,7 @@ public class SplitwiseJune22Application {
     private CommandRegistry commandRegistry;
 
     public static void main(String[] args) {
-        SpringApplication.run(SplitwiseJune22Application.class, args);
+        SpringApplication.run(SplitwiseJan23Application.class, args);
     }
 
 //    @Override

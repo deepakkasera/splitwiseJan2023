@@ -11,8 +11,8 @@
     <groupId>com.scaler</groupId>
     <artifactId>splitwiseJan2023</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>splitwiseJune22</name>
-    <description>splitwiseJune22</description>
+    <name>splitwiseJan23</name>
+    <description>splitwiseJan23</description>
     <properties>
         <java.version>17</java.version>
     </properties>
